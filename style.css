@@ -1,0 +1,91 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    margin: 0%;
+}
+
+.upper {
+    background-image: url(images/donation9.jpg);
+    padding: 200px 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: x-large color;
+    color: whitesmoke;
+    padding-bottom: 300px;
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: black;
+    font-size: 3;
+    color: white;
+
+    padding: 10px 7px;
+    border-radius: 5px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+div {
+    text-align: center;
+}
+
+.boxes {
+    display: flex;
+    padding: 50px 350px;
+
+}
+
+.boxy {
+    margin: 30px 30px 30px 30px;
+    background-color: wheat;
+    font-size: larger;
+    font-weight: bolder;
+    color: blue;
+    padding: 25px 15px;
+    border-radius: 5px;
+}
+
+.diff-boxy {
+    margin: 30px 30px 30px 30px;
+    padding: 25px 15px;
+    font-size: larger;
+    font-weight: bolder;
+    color: navy background-color: azure;
+    border-radius: 5px;
+    border: 5px solid skyblue;
+}
+
+.plan {
+    padding: 100px 100px;
+}
+
+.today {
+    padding: 100px 100px 50px 50px;
+}
+
+.donate-plan {
+    display: flex;
+
+
+}
+
+.plan-zero {
+    padding: 20px;
+    margin: 30px 30px 30px 30px;
+    background-color: aqua;
+    border-radius: 7px;
+
+}
+
+.foot {
+    background-color: black;
+    color: beige;
+    background-size: cover;
+    padding: 50px 30px;
+    margin: 40px;
+}
